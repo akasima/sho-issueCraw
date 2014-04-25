@@ -77,5 +77,7 @@ To get started check out our free sample demo <http://pixelkit.com/free-ui-kits/
 
 ![ScreenShot](http://pixelkit.com/wp-content/uploads/2013/05/The-Basics.jpg)
 
+![Video](http://youtu.be/tAVjw2rr3II))
+
 To get started check out our free sample demo <http://pixelkit.com/free-ui-kits/vanilla-cream/> The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com <http://pixelkit.com/kits/light-ui-kit/>
 
